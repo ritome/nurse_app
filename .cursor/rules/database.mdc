@@ -8,7 +8,7 @@ alwaysApply: true
 
 ## シーディング
 
-usersテーブルに以下のカラムを追加（マイグレーション作成・適用）：
+
 
 employee_id（職員ID。文字列ユニーク）
 
